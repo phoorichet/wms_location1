@@ -1,4 +1,3 @@
-require 'namespace'
 require 'wms/widget/base'
 
 puts 'Main here'

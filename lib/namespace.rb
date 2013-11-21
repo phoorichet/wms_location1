@@ -1,3 +1,5 @@
 module Wms
-  module Widget; end
+  module Widget
+    module Location1; end
+  end
 end
