@@ -5,7 +5,7 @@ require 'wms_location1/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "wms_location1"
-  spec.version       = WmsLocation1::VERSION
+  spec.version       = Wms::Widget::Location1::VERSION
   spec.authors       = ["Phoorichet Thepdusith"]
   spec.email         = ["phoorichet.t@gmail.com"]
   spec.description   = %q{test widget}
