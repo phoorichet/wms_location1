@@ -1,4 +1,7 @@
+require 'namespace'
 require 'wms/widget/base'
+
+puts 'Main here'
 
 # This widget will read the location record from the event. It will then
 # calculate how much time(in millisecond) did the user spend from one point to another.
